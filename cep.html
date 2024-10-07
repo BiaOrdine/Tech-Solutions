@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CEP</title>
+    <link rel="stylesheet" href="cep.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="titulo">
+        <div class="fundoHomeButton"> <img class="homeButtonIMG" src="imagens/voltar.png" onclick="location.href='index.html'" alt=""></div> <h1 class="titulo1">CEP</h1>
+    </div>
+
+    <div class="fundoTitulo">
+         <h1 class="titulo1">CONSUMOS DE APIs</h1>
+    </div>
+
+    <div class="divCentral">
+        <div class="fundoInputs">
+
+            <!-- <h1 class="tituloCEP">Consultar CEP</h1> -->
+                        
+                <label for="" class="label1">Digite o CEP</label>
+                <input type="text" id="cep" class="input1">
+                      
+                <label for="" class="label1">Rua</label>
+                <input type="text" readonly id="rua" class="input1">
+
+                <label for="" class="label1">Número</label>
+                <input type="text" id="numero" class="input1">
+            
+                <label for="" class="label1">Bairro</label>
+                <input type="text" readonly id="bairro" class="input1">
+                
+                <label for="" class="label1">Cidade</label>
+                <input type="text" readonly id="cidade" class="input1">
+                
+                <label for="" class="label1">Estado</label>
+                <input type="text" readonly id="estado" class="input1">
+            </div>
+    </div>
+        
+
+<script src="cep.js"></script>
+</body>
+
+</html>

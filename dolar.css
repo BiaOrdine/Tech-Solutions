@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+}
+
+.titulo{
+    background-color: rgb(30, 146, 55);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 100vw;
+    height: 80px;
+    margin-left: -8px;
+    margin-top: -8px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.39);
+}
+
+.titulo1{
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Montserrat;
+    width: 100vw;
+    margin-left: -70px;
+    color: white;
+    font-size: 30px;
+    
+}
+
+.homeButtonIMG{
+    position: relative;
+    z-index: 10;
+    margin-left: 20px;
+    width: 55px;
+    height: 55px;
+    cursor: pointer;
+}
+
+.divCotacao{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.fundoCotacao{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 370px;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 13px;
+    box-shadow: 0px 0px 16px rgba(77, 77, 77, 0.247);
+}
+
+
+.label1{
+    font-family: Montserrat;
+    font-weight: 550;
+    font-size: 25px;
+    color: rgb(30, 146, 55) ;
+    margin-bottom: -20px;
+}
+
+#valorDolar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 270px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    border: 2px solid rgb(30, 146, 55);
+    color: rgba(0, 0, 0, 0.822);
+    font-family: Montserrat;
+    font-weight: 550;
+    font-size: 22px;
+}
+
+#menorDolar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 270px;
+    height: 40px;
+
+    border: none;
+    border-radius: 10px;
+    border: 2px solid rgb(30, 146, 55);
+    color: rgba(0, 0, 0, 0.822);
+    font-family: Montserrat;
+    font-weight: 550;
+    font-size: 22px;
+}
+
+#maiorDolar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 270px;
+    height: 40px;
+
+    border: none;
+    border-radius: 10px;
+    border: 2px solid rgb(30, 146, 55);
+    color: rgba(0, 0, 0, 0.822);
+    font-family: Montserrat;
+    font-weight: 550;
+    font-size: 22px;
+}

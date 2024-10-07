@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CPF</title>
+    <link rel="stylesheet" href="cpf.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="titulo">
+        <div class="fundoHomeButton"> <img class="homeButtonIMG" src="imagens/voltar.png" onclick="location.href='index.html'" alt=""></div> <h1 class="titulo1">Buscar CPF</h1>
+    </div>
+
+
+    <div class="divGeral">
+
+        <div class="input">
+            <input maxlength="11" type="text" id="valor" placeholder="Digite o CPF" max="11">
+            <div id="erro"></div>
+            <button class="botao" onclick="buscar()">Buscar</button>
+        </div>
+
+        <div class="dados">
+
+            <h1 class="tituloDados">Dados da pessoa:</h1>
+            
+            <div id="nome"></div>
+            <div id="nascimento"></div>
+            <div id="estado"></div>
+            <div id="cidade"></div>
+            <div id="pais"></div>
+            
+        </div>
+
+
+    </div>
+        
+
+<script src="cpf.js"></script>
+</body>
+
+</html>

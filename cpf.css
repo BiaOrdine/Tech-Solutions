@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+}
+
+.titulo{
+    background-color: rgb(30, 146, 55);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 100vw;
+    height: 80px;
+    margin-left: -8px;
+    margin-top: -8px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.39);
+}
+
+.titulo1{
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Montserrat;
+    width: 100vw;
+    margin-left: -70px;
+    color: white;
+    font-size: 30px;
+    
+}
+
+.homeButtonIMG{
+    position: relative;
+    z-index: 10;
+    margin-left: 20px;
+    width: 55px;
+    height: 55px;
+    cursor: pointer;
+}
+
+.divGeral{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.input{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#valor{
+    width: 200px;
+    height: 30px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 7px;
+}
+
+.botao{
+    background-color: rgb(30, 146, 55);
+    border: none;
+    width: 160px;
+    height: 35px;
+    font-family: Montserrat;
+    font-weight: 550;
+    font-size: 18px;
+    color: white;
+    border-radius: 7px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#erro{
+    margin-top: 10px;
+    font-family: Montserrat;
+    font-weight: 650;
+    color: rgb(170, 5, 5);
+}
+
+.dados{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    height: 210px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.212);
+}
+
+.tituloDados{
+    font-family: Montserrat;
+    font-size: 28px;
+    color: rgb(30, 146, 55);
+}
+
+#nome,
+#nascimento,
+#estado,
+#cidade,
+#pais{
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 18px;
+}

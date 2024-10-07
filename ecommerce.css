@@ -1,0 +1,189 @@
+body{
+    overflow-x: hidden;
+}
+
+.titulo{
+    background-color: rgb(30, 146, 55);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 100vw;
+    height: 80px;
+    margin-left: -8px;
+    margin-top: -8px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.39);
+}
+
+.titulo1{
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Montserrat;
+    width: 100vw;
+    margin-left: -70px;
+    color: white;
+    font-size: 30px;
+    
+}
+
+.homeButtonIMG{
+    position: relative;
+    z-index: 10;
+    margin-left: 20px;
+    width: 55px;
+    height: 55px;
+    cursor: pointer;
+}
+
+.divGeral{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.livro1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 260px;
+    height: 390px;
+    border-radius: 10px;
+    margin-right: 30px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.212);
+}
+
+
+#nome1{
+    font-family: Montserrat;
+    font-weight: 550;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+#autor1{
+    font-family: Montserrat;
+    font-weight: 430;
+    
+}
+
+#preco1{
+    font-family: Montserrat;
+    font-weight: 550;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.botao1{
+    background-color: rgb(30, 146, 55);
+    border: none;
+    width: 200px;
+    height: 35px;
+    font-family: Montserrat;
+    font-weight: 550;
+    font-size: 18px;
+    color: white;
+    border-radius: 7px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+
+.livro2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 260px;
+    height: 390px;
+    border-radius: 10px;
+    margin-right: 30px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.212);
+}
+
+
+#nome2{
+    font-family: Montserrat;
+    font-weight: 550;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+#autor2{
+    font-family: Montserrat;
+    font-weight: 430;
+    
+}
+
+#preco2{
+    font-family: Montserrat;
+    font-weight: 550;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.botao2{
+    background-color: rgb(30, 146, 55);
+    border: none;
+    width: 200px;
+    height: 35px;
+    font-family: Montserrat;
+    font-weight: 550;
+    font-size: 18px;
+    color: white;
+    border-radius: 7px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+
+.livro3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 260px;
+    height: 390px;
+    border-radius: 10px;
+    margin-right: 30px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.212);
+}
+
+
+#nome3{
+    font-family: Montserrat;
+    font-weight: 550;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+#autor3{
+    font-family: Montserrat;
+    font-weight: 430;
+    
+}
+
+#preco3{
+    font-family: Montserrat;
+    font-weight: 550;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.botao3{
+    background-color: rgb(30, 146, 55);
+    border: none;
+    width: 200px;
+    height: 35px;
+    font-family: Montserrat;
+    font-weight: 550;
+    font-size: 18px;
+    color: white;
+    border-radius: 7px;
+    margin-top: 10px;
+    cursor: pointer;
+}

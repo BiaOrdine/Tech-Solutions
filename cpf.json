@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "cpf": "11948225689",
+        "nome": "João Silva",
+        "nascimento": "15/05/1990",
+        "estado": "São Paulo",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Brasil"
+    },
+    {
+        "id": 2,
+        "cpf": "18575504398",
+        "nome": "Maria Oliveira",
+        "nascimento": "23/06/1985",
+        "estado": "Rio de Janeiro",
+        "cidade": "Niterói",
+        "pais": "Brasil"
+    },
+    {
+        "id": 3,
+        "cpf": "41779599528",
+        "nome": "Carlos Pereira",
+        "nascimento": "10/10/1992",
+        "estado": "Minas Gerais",
+        "cidade": "Belo Horizonte",
+        "pais": "Brasil"
+    },
+    {
+        "id": 4,
+        "cpf": "41893075052",
+        "nome": "Ana Souza",
+        "nascimento": "05/04/1980",
+        "estado": "Bahia",
+        "cidade": "Salvador",
+        "pais": "Brasil"
+    },
+    {
+        "id": 5,
+        "cpf": "46023832970",
+        "nome": "Lucas Mendes",
+        "nascimento": "17/11/1995",
+        "estado": "Pernambuco",
+        "cidade": "Recife",
+        "pais": "Brasil"
+    },
+    {
+        "id": 6,
+        "cpf": "46273004501",
+        "nome": "Beatriz Almeida",
+        "nascimento": "12/12/1993",
+        "estado": "Paraná",
+        "cidade": "Curitiba",
+        "pais": "Brasil"
+    },
+    {
+        "id": 7,
+        "cpf": "56123574000",
+        "nome": "Rafael Santos",
+        "nascimento": "09/09/1988",
+        "estado": "Ceará",
+        "cidade": "Fortaleza",
+        "pais": "Brasil"
+    },
+    {
+        "id": 8,
+        "cpf": "59084889509",
+        "nome": "Juliana Lima",
+        "nascimento": "27/03/1990",
+        "estado": "Rio Grande do Sul",
+        "cidade": "Porto Alegre",
+        "pais": "Brasil"
+    },
+    {
+        "id": 9,
+        "cpf": "62169580034",
+        "nome": "Gabriel Costa",
+        "nascimento": "02/02/1982",
+        "estado": "Goiás",
+        "cidade": "Goiânia",
+        "pais": "Brasil"
+    },
+    {
+        "id": 10,
+        "cpf": "69728406789",
+        "nome": "Fernanda Rocha",
+        "nascimento": "30/01/1998",
+        "estado": "Santa Catarina",
+        "cidade": "Florianópolis",
+        "pais": "Brasil"
+    },
+    {
+        "id": 11,
+        "cpf": "84240885060",
+        "nome": "Pedro Nunes",
+        "nascimento": "14/07/1984",
+        "estado": "Mato Grosso",
+        "cidade": "Cuiabá",
+        "pais": "Brasil"
+    },
+    {
+        "id": 12,
+        "cpf": "89617533472",
+        "nome": "Carla Souza",
+        "nascimento": "21/11/1991",
+        "estado": "Pará",
+        "cidade": "Belém",
+        "pais": "Brasil"
+    }
+]

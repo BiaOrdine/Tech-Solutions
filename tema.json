@@ -1,0 +1,32 @@
+{
+    "foto1": "<img class='fotoArtista' src='imagens/Michelangelo.png'>",
+    "artista1": "Michelangelo",
+    "data1": "(1475–1564)",
+    "texto1": "Michelangelo Buonarroti foi um dos maiores artistas do Renascimento italiano, conhecido por sua habilidade excepcional como escultor, pintor e arquiteto. Nascido em Caprese, ele começou sua carreira artística em Florença e rapidamente se destacou, trabalhando para mecenas importantes, como os Medici e papas em Roma. Michelangelo é lembrado por suas obras monumentais e sua capacidade de capturar a anatomia humana de maneira quase divina.",
+
+    "foto2": "<img class='fotoArtista' src='imagens/Donatello.png'>",
+    "artista2": "Donatello",
+    "data2": "(1386–1466)",
+    "texto2": "Donato di Niccolò di Betto Bardi, conhecido como Donatello, foi um escultor italiano e uma figura-chave do Renascimento, particularmente em Florença. Donatello foi pioneiro na utilização da perspectiva em suas esculturas e ajudou a redefinir o uso de bronze e mármore. Suas obras são notáveis pela vivacidade e pela maneira como capturavam a personalidade e as emoções humanas.",
+
+    "foto3": "<img class='fotoArtista' src='imagens/Rafael.png'>",
+    "artista3": "Rafael",
+    "data3": "(1483–1520)",
+    "texto3": "Raffaello Sanzio, conhecido como Rafael, foi um pintor e arquiteto italiano, cujas obras representavam o auge do equilíbrio e da harmonia renascentista. Ele trabalhou principalmente em Roma, sendo também um dos principais artistas patrocinados pelos papas. Rafael é famoso por suas Madonas e por sua habilidade de combinar elegância, graça e emoção em suas obras.",
+
+    "foto4": "<img class='fotoArtista' src='imagens/Leonardo.png'>",
+    "artista4": "Leonardo da Vinci",
+    "data4": "(1452–1519)",
+    "texto4": "Leonardo da Vinci foi um polímata renascentista italiano, ativo como pintor, escultor, inventor e cientista. Seu intelecto multifacetado e sua curiosidade insaciável o tornaram uma das figuras mais completas da história. Ele trabalhou principalmente em Florença e Milão, deixando um legado como um dos maiores gênios da humanidade.",
+
+    "foto5": "<img class='fotoArtista' src='imagens/Tarsila.png'>",
+    "artista5": "Tarsila do Amaral",
+    "data5": "(1886–1973)",
+    "texto5": "Tarsila do Amaral foi uma das principais figuras do modernismo brasileiro e uma das mais importantes pintoras da América Latina. Nascida em São Paulo, ela estudou arte em Paris e voltou ao Brasil com um desejo de retratar a cultura brasileira de forma inovadora. Tarsila foi uma das fundadoras do movimento antropofágico, que buscava devorar as influências estrangeiras e recriá-las em algo autenticamente brasileiro.",
+
+    "foto6": "<img class='fotoArtista' src='imagens/Frida.png'>",
+    "artista6": "Frida Kahlo",
+    "data6": "(1907–1954)",
+    "texto6": "Frida Kahlo foi uma pintora mexicana conhecida por suas autorrepresentações e pela maneira como abordava temas de identidade, pós-colonialismo, gênero, classe e raça na sociedade mexicana. Kahlo sofreu um grave acidente na juventude, o que influenciou profundamente sua arte. Sua vida pessoal e seu relacionamento com o também pintor Diego Rivera marcaram sua obra, que reflete sua dor, suas lutas e seu espírito resiliente."
+
+}

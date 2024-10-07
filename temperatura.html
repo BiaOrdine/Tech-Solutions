@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperatura</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="clima.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="titulo">
+        <div class="fundoHomeButton"> <img class="homeButtonIMG" src="imagens/voltar.png" onclick="location.href='index.html'" alt=""></div> <h1 class="titulo1">Temperatura</h1>
+    </div>
+
+   <div class="tempoDiv">
+        <div class="fundoTempo">
+            <p class="paragrafo">Digite o nome da cidade</p>
+            <input class="input" type="text" placeholder="Nome da cidade" id="city">
+            <button class="botao" onclick="getWeather()">Pesquisar</button>
+            <p id="temperatura">Escolha um local</p>
+        </div>
+        
+   </div>
+            
+
+    <script src="script.js"></script>
+</body>
+</html>

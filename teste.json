@@ -1,0 +1,17 @@
+{
+    "imagem1": "<img src='imagens/euCoracao.jpg' class='imagem1' width='150px'>",
+    "nome1": "Eu e Esse Meu Coração",
+    "autor1": "Livro por C. C. Hunter",
+    "preco1": "R$ 38,40",
+    
+    "imagem2": "<img src='imagens/amorSorte.jpg' class='imagem1' width='150px'>",
+    "nome2": "Amor & sorte",
+    "autor2": "Livro por Jenna Evans Welch",
+    "preco2": "R$ 45,00",
+
+   "imagem3": "<img src='imagens/imperfeitos.jpg' class='imagem1' width='150px'>",
+    "nome3": "Imperfeitos",
+    "autor3": "Livro por Christina Lauren",
+    "preco3": "R$ 23,58"
+    
+}
